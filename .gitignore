@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+Tadil_v77/dist/
+Tadil_v77/pyinstaller-build/
+Tadil_v77/specs/
+Tadil_v77/installer/application.zip
+Tadil_v77/installer/manifest.json
+*.sqlite3
+*.sqlite
+*.db
+*.sqlite3-wal
+*.sqlite3-shm
