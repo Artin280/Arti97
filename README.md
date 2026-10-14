@@ -1,8 +1,14 @@
-# Tadil version 77
+# Tadil version 78
 
 Continuation of the supplied version 76 Windows/Python application.
 
-## دانلود
+## نسخه جدید ۷۸
+
+[دانلود نسخه ۷۸](https://github.com/Artin280/Arti97/raw/refs/heads/main/downloads/Tadil_v78_Complete.zip)
+
+اصلاح اتصال متغیرهای فرم به پنجره صحیح، بازیابی پس از بستن کامل، مسیر درختی پیمانکار/قرارداد/تعدیل و دو کادر مستقل جستجو. [گزارش نسخه ۷۸](reports/RELEASE_REPORT_V78_FA.md). پس از نصب، میان‌بر Tadil v78 را اجرا کنید.
+
+## دانلود نسخه قبلی
 
 - [بسته کامل نسخه ۷۷](https://github.com/Artin280/Arti97/raw/refs/heads/main/downloads/Tadil_v77_Complete.zip) — نصب‌کننده مستقل، کد منبع، راهنما، گزارش آزمون‌ها و بسته مرجع نسخه ۷۶.
 - [بسته نصب ویندوز](https://github.com/Artin280/Arti97/raw/refs/heads/main/downloads/Tadil_v77_Windows.zip)

@@ -10,3 +10,9 @@ Tadil_v77/installer/manifest.json
 *.db
 *.sqlite3-wal
 *.sqlite3-shm
+
+Tadil_v78/dist/
+Tadil_v78/pyinstaller-build/
+Tadil_v78/specs/
+Tadil_v78/installer/application.zip
+Tadil_v78/installer/manifest.json

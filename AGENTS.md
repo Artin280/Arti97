@@ -1,6 +1,6 @@
 # Tadil development
 
-Continue from version 77; do not rewrite the application from scratch. Preserve the version 76 layout except for changes required by requested functionality. Every released successor must have a higher version number.
+Continue from version 78; do not rewrite the application from scratch. Preserve the version 76 layout except for changes required by requested functionality. Every released successor must have a higher version number.
 
 Back up files before changes. Never run migrations or tests against original customer databases. Use isolated copies or synthetic data. Keep customer records out of source control, binaries and shared source archives. Preserve data in a version-independent per-user directory; installation and reinstallation must create verified backups before replacing program files.
 
